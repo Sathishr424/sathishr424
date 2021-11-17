@@ -7,6 +7,10 @@
   
   Currently learning all about Web development.
   
+<!--![](https://komarev.com/ghpvc/?username=kratos462)-->
+
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kratos462)](https://github.com/kratos462/github-readme-stats)-->
+  
 ### Contact Me
 
 <p align="left">
