@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/sathish-r-097217226/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="Sathish Kumar R" height="25" width="25" /></a>&nbsp;&nbsp;
 <!-- <a href="https://dev.to/raghavbyte" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@raghavbyte" height="25" width="25" /></a> &nbsp;&nbsp; -->
-<a href="https://www.instagram.com/kratos_424/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Sathish Kratos" height="25" width="25" /></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/sat_ig462/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Sathish Kratos" height="25" width="25" /></a>&nbsp;&nbsp;
 <a href="https://www.freecodecamp.org/sathish_kratos462/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/freecodecamp.svg" alt="Sathish Kratos" height="25" width="25" /></a>&nbsp;&nbsp;
 </p>
 
