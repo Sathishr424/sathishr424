@@ -2,7 +2,7 @@
 
 ### About Me
 
-  Well I'm a programmer and I know C++/C/C#, Python, Java, JavaScript, PHP, Web Development(HTML,CSS,Bootstrap,Jquery) and also adding/learning new skills..
+  Well I'm a programmer and I know C++/C/C#, Python, Java, JavaScript, PHP, Web Development and also adding/learning new skills..
   I always like to solve programming problems.
   
   Currently learning all about Web development.
