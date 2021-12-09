@@ -2,7 +2,11 @@
 
 ### About Me
 
-  Well I am a self taught programmer and I know C++/C/C#, Python, Java, JavaScript, PHP, CSS, HTML and in web development React, Redux, Jquery, d3.js, Bootstrap and more... and also learning/adding new skills. 
+  Well I am a self taught programmer and a Full Stack Developer. I know React, Redux, Jquery, d3.js, Bootstrap, node.js and more... and always learning/adding new skills and libraries. 
+
+I have made and having experience in developing applications for Web, Desktop and Android platforms. And also I am very strong in Algorithms and data structures.
+
+Myself I am a quick learner and very enthusiastic person.
   
   Currently learning all about Web development.
   
