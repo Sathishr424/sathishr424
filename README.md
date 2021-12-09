@@ -2,7 +2,7 @@
 
 ### About Me
 
-  Well I am a self taught programmer and a Full Stack Developer. I know React, Redux, Jquery, d3.js, Bootstrap, node.js and more... and always learning/adding new skills and libraries. 
+  Well I am a self taught programmer and a Full Stack Developer.
   
   Currently learning all about Web development.
   
