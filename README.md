@@ -2,7 +2,7 @@
 
 ### About Me
 
-  Well I am a self taught programmer and a Full Stack Developer.
+  I am a Full Stack Developer.
   
   Currently learning all about Web development.
   
