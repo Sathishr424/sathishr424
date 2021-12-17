@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 ### About Me
-
-  I am a Full Stack Developer.
   
   Currently learning all about Web development.
   
