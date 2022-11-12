@@ -1,4 +1,4 @@
-### Hi there 👋
+### “Never memorize something that you can look up.” - Albert Einstein
   
 <!--![](https://komarev.com/ghpvc/?username=kratos462)-->
 
