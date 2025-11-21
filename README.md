@@ -1,4 +1,4 @@
-### “Never memorize something that you can look up.” - Albert Einstein
+### “Never memorize something that you can look up.”
   
 <!--![](https://komarev.com/ghpvc/?username=kratos462)-->
 
