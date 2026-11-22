@@ -38,20 +38,6 @@ drwx------  client   <a href="https://sathishr424.github.io/projects/custom-orde
   solved    2,100+, every one in <a href="https://github.com/Sathishr424/LeetcodeProblems">LeetcodeProblems</a>
   setup     Chrome extension → Python daemon → Neovim (<a href="https://github.com/Sathishr424/LeetcodeCompanion">LeetcodeCompanion</a>)
 
-<b>sathish@arch</b> <b>~</b> $ git log --graph --oneline career
-*   <b>e21f0c4</b> (HEAD -&gt; main) open to full-stack and backend roles
-|\
-| * <b>7a3d9b1</b> Jan–Jun 2026  Full Stack Developer Intern @ Pando
-| |   stacking-norms constraint in a Java truck-loading optimizer
-| |   Vue.js, Node.js and MongoDB features on a production platform
-|/
-* <b>4c8e2a0</b> 2022–now  Full Stack Engineer, independent (Upwork, Fiverr)
-|   90+ projects across e-commerce, legal, media and healthcare
-|   50+ product-data pipelines in Python and Node.js
-|   court-filing automation, PDF to JSON/Excel extraction
-* <b>1f6b5d3</b> 2017–2021  Structural Steel Detailer (Tekla Structures)
-    root commit: drew steel buildings before I built software
-
 <b>sathish@arch</b> <b>~</b> $ tree ~/stack
 ~/stack
 ├── languages   JavaScript, TypeScript, Python, Java, C/C++, PHP, SQL, Bash
