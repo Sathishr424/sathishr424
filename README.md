@@ -21,16 +21,6 @@ optimization engine at Pando) and in empty folders (a real-time voice AI
 pipeline backed by 800+ automated tests). Docker, Kubernetes, Terraform,
 CI/CD. Strong in algorithms.
 
-<b>sathish@arch</b> <b>~</b> $ ls -l ~/projects
-drwxr-xr-x  sathish  <a href="https://sathishr424.github.io/projects/mock-ai.html">mock-ai/</a>               voice AI interviewer, scored reports
-drwxr-xr-x  sathish  <a href="https://github.com/Sathishr424/ChatApp_plus_devops">satchat/</a>               real-time chat on Kubernetes, <a href="https://satdevopsdummies.xyz/">live</a>
-drwxr-xr-x  sathish  <a href="https://github.com/Sathishr424/DistributedRealTimeCollaborativeDocumentEditor">text-editor-engine/</a>    canvas editor, its own text model
-drwxr-xr-x  sathish  <a href="https://sathishr424.github.io/projects/resume-builder.html">resume-builder/</a>        live A4 preview, 4 templates, PDF
-drwxr-x---  client   <a href="https://sathishr424.github.io/projects/ecommerce-scraping.html">ecommerce-scraping/</a>    51 stores, 300k+ products scraped
-drwx------  client   <a href="https://sathishr424.github.io/projects/price-tracker.html">price-tracker/</a>         6 US retailers, deals, price history
-drwx------  client   <a href="https://sathishr424.github.io/projects/custom-order-builder.html">custom-order-builder/</a>  live bulk pricing for custom apparel
-<i># drwx------ = under NDA, shown with names and data removed</i>
-
 <b>sathish@arch</b> <b>~</b> $ leetcode stats <a href="https://leetcode.com/u/sat_this_h/">sat_this_h</a>
   badge     <b>Guardian</b>
   rating    2144 (max)
