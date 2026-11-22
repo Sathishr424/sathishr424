@@ -1,6 +1,12 @@
 <pre>
  ●  ●  ●                     sathish@arch: ~                      zsh  80x48
 
+Last login: today on github.com
+
+  ┌──────────────────────────────────────────────────┐
+  │  Never memorize something that you can look up.  │
+  └──────────────────────────────────────────────────┘
+
 <b>sathish@arch</b> <b>~</b> $ fastfetch
 
    ╭────────────────╮      <b>sathish</b>@<b>github</b>
