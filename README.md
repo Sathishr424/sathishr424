@@ -13,7 +13,7 @@ Last login: today on github.com
    │ >_             │      ──────────────────────────────────────────
    │                │      <b>role</b>       Full Stack Software Engineer
    ╰────────────────╯      <b>location</b>   Chennai, India
-  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀     <b>uptime</b>     5 years shipping software
+  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀     
 
 
 <b>sathish@arch</b> <b>~</b> $ contact --all
